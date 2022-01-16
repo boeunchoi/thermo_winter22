@@ -1,4 +1,5 @@
-Here's a copy of some messages I wrote in the Slack just for easy access in the future
+# Some help/tips for Git things!
+Here's a copy of some messages I wrote in the Slack about branches and forks in GitHub just for easy access in the future :D
 
 Okay first a quick summary of what they are/are used for so you don’t have to read everything in those links:
 
